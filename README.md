@@ -33,7 +33,7 @@ JSON記述ファイル|=| 高解像度
 2. 裁ち落とし、画像補正、見開き分割  
 ⇒ OpenCV →[ImaginisConvertens](https://github.com/BithreenGirlen/ImaginisConvertens)
 3. 二値化、Multi-TIFF作成  
-⇒ .Net WPF →[Tiff](https://github.com/BithreenGirlen/Tiff)
+⇒ .Net →[Tiff](https://github.com/BithreenGirlen/Tiff)
 4. 文字認識、pdf変換  
 ⇒ Tesseract
 
